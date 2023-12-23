@@ -10,3 +10,10 @@
 ```sh
 conda activate py_fbase_env
 ```
+
+## Documentations
+
+- [Firebase Introduction Video](https://www.youtube.com/watch?v=p9pgI3Mg-So)
+- [Installation & Setup](https://firebase.google.com/docs/database/rest/start)
+- [Firebase with Python official Documentation](https://firebase.google.com/docs/reference/admin/python?hl=en)
+- [Connect Python with Firebase Realtime Database](https://www.youtube.com/watch?v=BnrkTpgH5Vc)
