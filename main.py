@@ -86,11 +86,6 @@ for i in range(5):    # Loop to simulate realtime coordinates being update every
 
 
 
-# TODO: Fetching data from a specific uuid4 from realtime database.
-
-
-
-
 
 # ? https://firebase.google.com/static/docs/reference/admin/python/firebase_admin.db?hl=en
 
